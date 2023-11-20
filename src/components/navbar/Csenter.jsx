@@ -11,6 +11,8 @@ const Csenter = () => {
                     <h1 style={{color: "white"}}>FREE <span style={{color: "blue"}}> MARKET GAME</span></h1>
                     <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between"}}>
 
+
+///
                     
                     <div>
                         <br />
